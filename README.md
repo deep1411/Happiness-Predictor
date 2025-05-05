@@ -119,4 +119,4 @@ I executed this project with guidance from **Apziva** for their logistics client
 
 ## 📬 Contact
 
-For questions or collaboration inquiries, open an issue or reach me at **[deepinder@example.com](mailto:d.bal@outlook.com)**.
+For questions or collaboration inquiries, open an issue or reach me at **[d.bal@outlook.com](mailto:d.bal@outlook.com)**.
